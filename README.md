@@ -22,15 +22,20 @@ These best practices reflect widely accepted industry approaches and field exper
 
 ## Core Principles
 
+These principles form the foundation of sustainable cleaning and hygiene across facilities.
+
 - Prioritise prevention and correct dosing over aggressive cleaning
 - Reduce chemical variety and volume where possible
 - Choose reusable systems over disposable products
 - Optimise cleaning frequency based on actual usage
 - Train staff on correct methods and safe handling
 
+
 ## Practical Best Practices
 
-### Cleaning Chemicals Use
+This section translates principles into operational actions that can be applied in daily facility management.
+
+### Reduced Cleaning Chemicals Use
 
 - ## Use EU Ecolabel & Cradle-to-Cradle certified concentrated cleaning products
 EU Ecolabel-certified products meet some of the strictest environmental standards in Europe. Criteria are built on scientific data and focus on the top 10–20% of products with the lowest environmental impact across their entire life cycle. Every product is evaluated for resource efficiency, reduced hazardous substances, recyclability, durability, and high technical performance—while also meeting EU health, safety, social, and ethical requirements. Cradle to Cradle Certified® cleaning products are designed with the entire product lifecycle in mind, ensuring they are safe for people, safe for the environment and made for a circular economy. Cradle to Cradle Certified® cleaning products are designed with the entire product lifecycle in mind, ensuring they are safe for people, safe for the environment and made for a circular economy. 🔗 Learn more: https://glowex.nl/en/reduce-chemical-use/
@@ -46,24 +51,61 @@ Adopting a lean cleaning program without the complexity of multiple cleaning pro
 
 For example, Accelerated Hydrogen Peroxide (AHP) is a patented formulation that cleans and disinfects simultaneously and can be used on almost all hard surfaces. It is effective against a variety of stains, including limescale. A single multipurpose product like this can achieve the same results as a bathroom limescaler, a multipurpose surface cleaner, and an alcohol-based surface disinfectant.
 
-Another example is a 4-in-1 functional cleaning product (Suma Multipurpose Cleaner D2.3) that can be used in four different areas in the kitchen: countertop cleaning, floor cleaning, hand washing, and window cleaning. Such a multi-functional product can eliminate the need for separate glass cleaners, floor cleaners, and hand dishwashing liquids, which typically generate significant plastic waste.
+Another example is a 4-in-1 functional cleaning product that can be used in four different areas in the kitchen: countertop cleaning, floor cleaning, hand washing, and window cleaning. Such a multi-functional product can eliminate the need for separate glass cleaners, floor cleaners, and hand dishwashing liquids, which typically generate significant plastic waste.
 
 
+### Right Materials & Consumables for Minimum Plastic Waste
 
-### Materials & Consumables
-- Replace single-use plastics with refillable or reusable systems
-- Select durable tools with longer life cycles
+- ## Replace single-use plastics with refillable or reusable systems.
+With ease of use, lower upfront costs, and familiar cleaning habits, ready-to-use cleaning products in 0.75L spray bottles often appear more convenient than concentrated products with automated dosing systems. However, ready-to-use products are a major source of plastic waste in cleaning operations. A ready-to-use cleaning product has a 100% dilution rate, meaning the liquid inside the bottle is used at full strength every time. In contrast, super-concentrated cleaning products can be dosed as low as 0.5%, making them far more efficient and sustainable. This means that just 2L of a super-concentrated formula can produce up to 533 ready-to-use bottles (0.75L each).
+  
+- ## Select cleaning products produced with mono-material packagings.
+Mono-material packaging is packaging made from one single type of material, rather than a mix of different plastics, papers, or metals.
+Easier to recycle: Because it contains only one material, recycling facilities can process it without sorting or separating layers.
+Higher recycling quality: Recyclers can produce cleaner, more valuable recycled material.
+More sustainable: Reduces waste and improves circularity in packaging systems.
 
-### Operations
-- Align cleaning schedules with occupancy patterns
-- Standardise procedures across facilities to reduce errors
+### Periodic Training Programs
+
+Periodic training programs reduces errors in cleaning methods, standardise the optimum hygiene standards and operational efficiency across facilities.
+
+1. Theoretical, knowledge-based training
+This training helps facility managers, school leaders and teachers, and restaurant chefs pack with essential topics such as microorganisms and facility hygiene, cross-contamination of bacteria and viruses, and methods to minimise associated risks.
+
+2. Technical cleaning product training
+This training focuses on the correct use of dosing equipment, the structure and function of cleaning products, and the optimal balance between chemical dosage, water temperature, and mechanical action to achieve effective cleaning results.
+
+3. On-site product demonstrations
+Incorrect application can undermine the effectiveness of even the best-designed systems. On-site training is essential for complementing theoretical knowledge with practical experience in real cleaning scenarios within facilities.
 
 
 ## Applying These Practices
 
 Organizations can use these guidelines to evaluate current cleaning processes, identify areas for improvement, and implement measurable sustainability goals. The practices outlined here are designed to be practical, actionable, and adaptable to a wide range of facilities and operational contexts.
 
+## Measurable Benefits
+
+Organisations applying these practices typically observe:
+- Lower chemical consumption
+- Reduced plastic waste
+- Improved cost control
+- Safer working conditions
+- More consistent hygiene outcomes
+
+## About Glowex
+
+Glowex supports organisations in implementing sustainable cleaning and hygiene strategies through audits, training, and tailored facility programs.  
+
+🔗 Learn more: https://glowex.nl/en/about/
+
+🔗 Learn more: https://glowex.nl/en/faq/
+
+🔗 Learn more: https://glowex.nl/en/solutions/
+
+
 ## Need Expert Support?
 
 While this repository provides guidance, Glowex also offers on-site audits, tailored hygiene programs, and sustainability consulting to help facilities implement these best practices effectively.  
-🔗 Learn more: [https://glowex.nl/en](https://glowex.nl/en)
+🔗 Get Help: https://glowex.nl/en/contact/
+
+_Last updated: January 2026_
