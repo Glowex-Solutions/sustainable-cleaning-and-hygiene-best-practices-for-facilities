@@ -35,7 +35,7 @@ These principles form the foundation of sustainable cleaning and hygiene across 
 
 This section translates principles into operational actions that can be applied in daily facility management.
 
-### Reduced Cleaning Chemicals Use
+## Reduced Cleaning Chemicals Use
 
 - ## Use EU Ecolabel & Cradle-to-Cradle certified concentrated cleaning products
 EU Ecolabel-certified products meet some of the strictest environmental standards in Europe. Criteria are built on scientific data and focus on the top 10–20% of products with the lowest environmental impact across their entire life cycle. Every product is evaluated for resource efficiency, reduced hazardous substances, recyclability, durability, and high technical performance—while also meeting EU health, safety, social, and ethical requirements. Cradle to Cradle Certified® cleaning products are designed with the entire product lifecycle in mind, ensuring they are safe for people, safe for the environment and made for a circular economy. Cradle to Cradle Certified® cleaning products are designed with the entire product lifecycle in mind, ensuring they are safe for people, safe for the environment and made for a circular economy. 🔗 Learn more: https://glowex.nl/en/reduce-chemical-use/
@@ -54,7 +54,7 @@ For example, Accelerated Hydrogen Peroxide (AHP) is a patented formulation that 
 Another example is a 4-in-1 functional cleaning product that can be used in four different areas in the kitchen: countertop cleaning, floor cleaning, hand washing, and window cleaning. Such a multi-functional product can eliminate the need for separate glass cleaners, floor cleaners, and hand dishwashing liquids, which typically generate significant plastic waste.
 
 
-### Right Materials & Consumables for Minimum Plastic Waste
+## Right Materials & Consumables for Minimum Plastic Waste
 
 - ## Replace single-use plastics with refillable or reusable systems.
 With ease of use, lower upfront costs, and familiar cleaning habits, ready-to-use cleaning products in 0.75L spray bottles often appear more convenient than concentrated products with automated dosing systems. However, ready-to-use products are a major source of plastic waste in cleaning operations. A ready-to-use cleaning product has a 100% dilution rate, meaning the liquid inside the bottle is used at full strength every time. In contrast, super-concentrated cleaning products can be dosed as low as 0.5%, making them far more efficient and sustainable. This means that just 2L of a super-concentrated formula can produce up to 533 ready-to-use bottles (0.75L each).
@@ -65,7 +65,7 @@ Easier to recycle: Because it contains only one material, recycling facilities c
 Higher recycling quality: Recyclers can produce cleaner, more valuable recycled material.
 More sustainable: Reduces waste and improves circularity in packaging systems.
 
-### Periodic Training Programs
+## Periodic Training Programs
 
 Periodic training programs reduces errors in cleaning methods, standardise the optimum hygiene standards and operational efficiency across facilities.
 
