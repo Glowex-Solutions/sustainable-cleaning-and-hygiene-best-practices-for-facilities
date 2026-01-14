@@ -39,8 +39,16 @@ EU Ecolabel-certified products meet some of the strictest environmental standard
 Fully automated, precise, and secure dosing systems dilute chemicals to optimal concentrations, ensuring a longer lifespan compared to ready-to-use products. In addition, automated dosing systems eliminate the need for manual preparation of cleaning solutions, preventing overdosing that can negatively affect surface and material lifespan, worker safety, water consumption due to additional rinsing, and operational budgets.
 
 - ## Avoid overlapping cleaning products with similar functions
+Does using more cleaning products necessarily ensure better hygiene? How much chemical is actually consumed during cleaning processes? And how corrosive or irritating can a cleaning chemical be to people and surfaces?
+Many commercial cleaning products are formulated with strong chemical ingredients designed to work quickly. They often contain abrasive surfactants, foaming agents, synthetic fragrances, and colouring additives to create a “premium” cleaning experience—yet these are also common triggers of allergic reactions.
 
-- Review safety data sheets regularly
+Adopting a lean cleaning program without the complexity of multiple cleaning products is essential for reducing indoor chemical exposure. Innovative manufacturers develop unique formulations that are eco-friendly yet effective and can be used on multiple surfaces and for various types of stains. These kinds of products reduce product variety in cleaning operations, simplify workflows, and lower training requirements.
+
+For example, Accelerated Hydrogen Peroxide (AHP) is a patented formulation that cleans and disinfects simultaneously and can be used on almost all hard surfaces. It is effective against a variety of stains, including limescale. A single multipurpose product like this can achieve the same results as a bathroom limescaler, a multipurpose surface cleaner, and an alcohol-based surface disinfectant.
+
+Another example is a 4-in-1 functional cleaning product (Suma Multipurpose Cleaner D2.3) that can be used in four different areas in the kitchen: countertop cleaning, floor cleaning, hand washing, and window cleaning. Such a multi-functional product can eliminate the need for separate glass cleaners, floor cleaners, and hand dishwashing liquids, which typically generate significant plastic waste.
+
+
 
 ### Materials & Consumables
 - Replace single-use plastics with refillable or reusable systems
